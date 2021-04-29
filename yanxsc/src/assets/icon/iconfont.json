@@ -1,0 +1,30 @@
+{
+  "id": "2468118",
+  "name": "yxsc",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1221197",
+      "name": "眼睛",
+      "font_class": "eye",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "13260059",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "18116871",
+      "name": "闭眼",
+      "font_class": "Eyesclosed",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    }
+  ]
+}
